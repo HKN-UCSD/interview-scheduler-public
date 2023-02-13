@@ -1,0 +1,49 @@
+time,officer1,officer2,inductee,interview_type
+start: 2023-01-12 13:00:00 end: 2023-01-12 14:00:00,Tara Len (tlen@ucsd.edu),Thomas Rexin (tjrexin@ucsd.edu),Divya Gangaramani (dgangaramani@ucsd.edu),MAE
+start: 2023-01-10 15:00:00 end: 2023-01-10 16:00:00,Eric Hsiao (ehsiao@ucsd.edu),Meghaj Vadlaputi (mvadlapu@ucsd.edu),Kenzo Ku (kku@ucsd.edu),CSE
+start: 2023-01-10 15:00:00 end: 2023-01-10 16:00:00,Anjali Srinivasan (a1sriniv@ucsd.edu),Brandon Imai (bimai@ucsd.edu),Yu You Chen (yyc003@ucsd.edu),CSE
+start: 2023-01-12 10:00:00 end: 2023-01-12 11:00:00,Kyle Wade (kwade@ucsd.edu),Annie Liu (anl049@ucsd.edu),Zoe Ludena (zludena@ucsd.edu),CSE
+start: 2023-01-17 11:00:00 end: 2023-01-17 12:00:00,Nihal Nazeem (nnazeem@ucsd.edu),Jenelle Truong (jftruong@ucsd.edu),Jennifer Tanurdjaja (jtanurdjaja@ucsd.edu),CSE
+start: 2023-01-09 11:00:00 end: 2023-01-09 12:00:00,Thomas Rexin (tjrexin@ucsd.edu),Eric Hsiao (ehsiao@ucsd.edu),Pranav Reddy (p3reddy@ucsd.edu),CSE
+start: 2023-01-12 16:00:00 end: 2023-01-12 17:00:00,Akhil Parvathaneni (aaparvat@ucsd.edu),Anjali Srinivasan (a1sriniv@ucsd.edu),Lina Battikha (lbattikha@ucsd.edu),CSE
+start: 2023-01-19 16:00:00 end: 2023-01-19 17:00:00,Rachel Lin (rwlin@ucsd.edu),Brandon Imai (bimai@ucsd.edu),Hargen Zheng (yoz018@ucsd.edu),CSE
+start: 2023-01-09 13:00:00 end: 2023-01-09 14:00:00,Wei Qin (wqin@ucsd.edu),Tara Len (tlen@ucsd.edu),Harrison Hui (hchui@ucsd.edu),ECE
+start: 2023-01-10 12:00:00 end: 2023-01-10 13:00:00,Jenelle Truong (jftruong@ucsd.edu),Muchan Li (mul005@ucsd.edu),Aung San Khaing (akhaing@ucsd.edu),CSE
+start: 2023-01-09 10:00:00 end: 2023-01-09 11:00:00,Tara Len (tlen@ucsd.edu),Kanishka Roy (k2roy@ucsd.edu),Sai Mai Lau (s7lau@ucsd.edu),MAE
+start: 2023-01-09 15:00:00 end: 2023-01-09 16:00:00,Thomas Rexin (tjrexin@ucsd.edu),Eric Hsiao (ehsiao@ucsd.edu),Darren Ng (dwng@ucsd.edu),CSE
+start: 2023-01-10 14:00:00 end: 2023-01-10 15:00:00,Tara Len (tlen@ucsd.edu),Kanishka Roy (k2roy@ucsd.edu),Akashnarendran Premkumar (apremkumar@ucsd.edu),MAE
+start: 2023-01-12 11:00:00 end: 2023-01-12 12:00:00,Lance Zhu (yiz170@ucsd.edu),Raini Wu (ryw003@ucsd.edu),Darell Chua (dchuayun@ucsd.edu),ECE
+start: 2023-01-10 16:00:00 end: 2023-01-10 17:00:00,Rachel Lin (rwlin@ucsd.edu),Brandon Imai (bimai@ucsd.edu),Abigail Shilts (acshilts@ucsd.edu),CSE
+start: 2023-01-11 15:00:00 end: 2023-01-11 16:00:00,Kyle Wade (kwade@ucsd.edu),Saloni Bagri (sbagri@ucsd.edu),Pallavi Prabhu (pprabhu@ucsd.edu),CSE
+start: 2023-01-10 12:00:00 end: 2023-01-10 13:00:00,Annie Liu (anl049@ucsd.edu),Raini Wu (ryw003@ucsd.edu),Peter Chang (p7chang@ucsd.edu),CSE
+start: 2023-01-09 14:00:00 end: 2023-01-09 15:00:00,Rachel Lin (rwlin@ucsd.edu),Ryan Chen (ryc007@ucsd.edu),Duke Wu (d3wu@ucsd.edu),CSE
+start: 2023-01-09 14:00:00 end: 2023-01-09 15:00:00,Wei Qin (wqin@ucsd.edu),Tara Len (tlen@ucsd.edu),chuqiao lu (c7lu@ucsd.edu),ECE
+start: 2023-01-20 10:00:00 end: 2023-01-20 11:00:00,Jenelle Truong (jftruong@ucsd.edu),Girish Krishnan (gikrishnan@ucsd.edu),Daniel Doan (dadoan@ucsd.edu),CSE
+start: 2023-01-09 11:00:00 end: 2023-01-09 12:00:00,Kanishka Roy (k2roy@ucsd.edu),Anjali Srinivasan (a1sriniv@ucsd.edu),Benjamin Liou (bliou@ucsd.edu),ECE
+start: 2023-01-10 13:00:00 end: 2023-01-10 14:00:00,Saloni Bagri (sbagri@ucsd.edu),Sai Fu Lui (sflui@ucsd.edu),Michael Megally (mmegally@ucsd.edu),BENG
+start: 2023-01-10 11:00:00 end: 2023-01-10 12:00:00,Jenelle Truong (jftruong@ucsd.edu),Girish Krishnan (gikrishnan@ucsd.edu),Henry Lin (hhlin@ucsd.edu),CSE
+start: 2023-01-10 16:00:00 end: 2023-01-10 17:00:00,Thomas Rexin (tjrexin@ucsd.edu),Eric Hsiao (ehsiao@ucsd.edu),Charlotte Dong (q4dong@ucsd.edu),CSE
+start: 2023-01-19 12:00:00 end: 2023-01-19 13:00:00,Tara Len (tlen@ucsd.edu),Jenelle Truong (jftruong@ucsd.edu),Daniel Cruz Espada (dcruzespada@ucsd.edu),MAE
+start: 2023-01-11 13:00:00 end: 2023-01-11 14:00:00,Thomas Rexin (tjrexin@ucsd.edu),Eric Hsiao (ehsiao@ucsd.edu),Jenny Lam (j9lam@ucsd.edu),CSE
+start: 2023-01-10 10:00:00 end: 2023-01-10 11:00:00,Akhil Parvathaneni (aaparvat@ucsd.edu),Meghaj Vadlaputi (mvadlapu@ucsd.edu),Jason Hauk (jhauk@ucsd.edu),CSE
+start: 2023-01-12 10:00:00 end: 2023-01-12 11:00:00,Tara Len (tlen@ucsd.edu),Girish Krishnan (gikrishnan@ucsd.edu),Marco Rincon VIllanueva (mrinconvillanueva@ucsd.edu),MAE
+start: 2023-01-10 13:00:00 end: 2023-01-10 14:00:00,Thomas Rexin (tjrexin@ucsd.edu),Eric Hsiao (ehsiao@ucsd.edu),Joseph Kaminsky (jkaminsky@ucsd.edu),CSE
+start: 2023-01-10 11:00:00 end: 2023-01-10 12:00:00,Akhil Parvathaneni (aaparvat@ucsd.edu),Meghaj Vadlaputi (mvadlapu@ucsd.edu),Yu-An Hung (yuhung@ucsd.edu),CSE
+start: 2023-01-10 11:00:00 end: 2023-01-10 12:00:00,Muchan Li (mul005@ucsd.edu),Raini Wu (ryw003@ucsd.edu),Andrew Pu (apu@ucsd.edu),CSE
+start: 2023-01-09 16:00:00 end: 2023-01-09 17:00:00,Rachel Lin (rwlin@ucsd.edu),Ryan Chen (ryc007@ucsd.edu),Brandon Reponte (bkreponte@ucsd.edu),CSE
+start: 2023-01-09 11:00:00 end: 2023-01-09 12:00:00,Tara Len (tlen@ucsd.edu),Raini Wu (ryw003@ucsd.edu),Manu Mittal (mamittal@ucsd.edu),MAE
+start: 2023-01-20 14:00:00 end: 2023-01-20 15:00:00,Rachel Lin (rwlin@ucsd.edu),Ryan Chen (ryc007@ucsd.edu),Maxwell Chang (machang@ucsd.edu),CSE
+start: 2023-01-17 15:00:00 end: 2023-01-17 16:00:00,Brandon Imai (bimai@ucsd.edu),Kanishka Roy (k2roy@ucsd.edu),Medha Upadhyay (mupadhya@ucsd.edu),CSE
+start: 2023-01-11 14:00:00 end: 2023-01-11 15:00:00,Saloni Bagri (sbagri@ucsd.edu),Annie Liu (anl049@ucsd.edu),Capalina Melentyev (cmelenty@ucsd.edu),BENG
+start: 2023-01-09 15:00:00 end: 2023-01-09 16:00:00,Wei Qin (wqin@ucsd.edu),Tara Len (tlen@ucsd.edu),Jack Bae (jhbae@ucsd.edu),ECE
+start: 2023-01-12 12:00:00 end: 2023-01-12 13:00:00,Jenelle Truong (jftruong@ucsd.edu),Muchan Li (mul005@ucsd.edu),Eddie Lu (edlu@ucsd.edu),CSE
+start: 2023-01-10 16:00:00 end: 2023-01-10 17:00:00,Anjali Srinivasan (a1sriniv@ucsd.edu),Kyle Wade (kwade@ucsd.edu),Kurumi Kaneko (kskaneko@ucsd.edu),CSE
+start: 2023-01-13 17:00:00 end: 2023-01-13 18:00:00,Annie Liu (anl049@ucsd.edu),Kanishka Roy (k2roy@ucsd.edu),Benjamin Laflen (blaflen@ucsd.edu),CSE
+start: 2023-01-12 16:00:00 end: 2023-01-12 17:00:00,Thomas Rexin (tjrexin@ucsd.edu),Eric Hsiao (ehsiao@ucsd.edu),Sean Tran (sgtran@ucsd.edu),CSE
+start: 2023-01-09 12:00:00 end: 2023-01-09 13:00:00,Tara Len (tlen@ucsd.edu),Girish Krishnan (gikrishnan@ucsd.edu),Alexander Parrish (aparrish@ucsd.edu),MAE
+start: 2023-01-18 13:00:00 end: 2023-01-18 14:00:00,Thomas Rexin (tjrexin@ucsd.edu),Eric Hsiao (ehsiao@ucsd.edu),Penelope King (pking@ucsd.edu),CSE
+start: 2023-01-09 13:00:00 end: 2023-01-09 14:00:00,Saloni Bagri (sbagri@ucsd.edu),Girish Krishnan (gikrishnan@ucsd.edu),Sean Bauersfeld (smbauers@ucsd.edu),BENG
+start: 2023-01-09 16:00:00 end: 2023-01-09 17:00:00,Thomas Rexin (tjrexin@ucsd.edu),Eric Hsiao (ehsiao@ucsd.edu),Keng-Lien Lin (kel030@ucsd.edu),CSE
+start: 2023-01-10 16:00:00 end: 2023-01-10 17:00:00,Akhil Parvathaneni (aaparvat@ucsd.edu),Meghaj Vadlaputi (mvadlapu@ucsd.edu),Isabelle Krochmal (ikrochma@ucsd.edu),CSE
+start: 2023-01-12 13:00:00 end: 2023-01-12 14:00:00,Lance Zhu (yiz170@ucsd.edu),Anjali Srinivasan (a1sriniv@ucsd.edu),Yvanna Matusea (ymatusea@ucsd.edu),ECE
+start: 2023-01-12 12:00:00 end: 2023-01-12 13:00:00,Rachel Lin (rwlin@ucsd.edu),Ryan Chen (ryc007@ucsd.edu),Feiyang Tang (Fetang@ucsd.edu),CSE
